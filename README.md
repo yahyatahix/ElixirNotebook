@@ -1,4 +1,4 @@
 # ElixirNotebook
 
 [![Elixir](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yahyatahix/ElixirNotebook/main)
-[![Build Status](https://travis-ci.org/yahyatahix/IElixir.svg?)](https://travis-ci.org/yahyatahix/ElixirNotebook)
+[![Build Status](https://travis-ci.org/yahyatahix/IElixir.svg?branch=master)](https://travis-ci.org/yahyatahix/ElixirNotebook)
