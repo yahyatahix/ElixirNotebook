@@ -1,5 +1,3 @@
-name: elixir-binder
-
 language: elixir
 sudo: true
 matrix:
